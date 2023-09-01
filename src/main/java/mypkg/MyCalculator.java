@@ -9,6 +9,10 @@ public class MyCalculator {
 	public int diff(int a, int b)
 	{
 		return a-b;
+	}
+	public int mul(int a, int b)
+	{
+		return a*b;
 	}	
 	public int newSum(int a, int b)
 	{
